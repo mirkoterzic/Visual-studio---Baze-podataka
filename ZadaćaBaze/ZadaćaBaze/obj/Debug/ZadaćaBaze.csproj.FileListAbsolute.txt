@@ -1,0 +1,12 @@
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\bin\Debug\Database1.mdf
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\bin\Debug\Database1_log.ldf
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\bin\Debug\ZadaćaBaze.exe.config
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\bin\Debug\ZadaćaBaze.exe
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\bin\Debug\ZadaćaBaze.pdb
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\obj\Debug\ZadaćaBaze.csprojAssemblyReference.cache
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\obj\Debug\ZadaćaBaze.Form1.resources
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\obj\Debug\ZadaćaBaze.Properties.Resources.resources
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\obj\Debug\ZadaćaBaze.csproj.GenerateResource.cache
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\obj\Debug\ZadaćaBaze.csproj.CoreCompileInputs.cache
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\obj\Debug\ZadaćaBaze.exe
+C:\Users\roberto.vujanovic\source\repos\ZadaćaBaze\ZadaćaBaze\obj\Debug\ZadaćaBaze.pdb
